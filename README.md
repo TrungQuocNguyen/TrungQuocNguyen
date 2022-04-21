@@ -7,5 +7,5 @@
 - ⚡ Fun fact: I am from Vietnam and have been living in Germany for more than 4 years !
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrungQuocNguyen&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrungQuocNguyen&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TrungQuocNguyen&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrungQuocNguyen&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
