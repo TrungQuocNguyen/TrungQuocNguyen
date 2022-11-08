@@ -17,6 +17,6 @@
  <div align="center">
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-trungquocnguyen.vercel.app/api/top-langs/?username=TrungQuocNguyen&layout=compact&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats-trungquocnguyen.vercel.app/api/top-langs/?username=TrungQuocNguyen&hide=javascript,html,tex,css,cmake,ipython,jupyter%20notebook&layout=compact&theme=nightowl" />
 </a>
  </div>
