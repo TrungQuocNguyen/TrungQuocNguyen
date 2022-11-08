@@ -6,6 +6,17 @@
 - 👯 I’m looking to collaborate on 3D computer vision project, such as 3D object detection, segmentation, scene reconstruction
 - ⚡ Fun fact: I am from Vietnam and have been living in Germany for more than 4 years !
 
-[![Anurag's GitHub stats](https://github-readme-stats-trungquocnguyen.vercel.app/api?username=TrungQuocNguyen&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrungQuocNguyen&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-trungquocnguyen.vercel.app/api/top-langs/?username=TrungQuocNguyen&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-trungquocnguyen.vercel.app/api?username=TrungQuocNguyen&count_private=true&show_icons=true&theme=nightowl" />
+</a>
+  <a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TrungQuocNguyen&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+ </div>
+ <div align="center">
+  <div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-trungquocnguyen.vercel.app/api/top-langs/?username=TrungQuocNguyen&layout=compact&theme=nightowl" />
+</a>
+ </div>
